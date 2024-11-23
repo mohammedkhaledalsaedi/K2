@@ -1,0 +1,15 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sim_1/new/K2_Processor_TB.sv,1732271527,systemVerilog,,,,K2_Processor_TB,,,,,,,,
+/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/imports/K2-main/Counter/sources_1/new/nbitcounter.sv,1732271527,systemVerilog,,/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sim_1/new/K2_Processor_TB.sv,,nbitcounter,,,,,,,,
+/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/imports/K2-main/Register/sources_1/new/Dregisterbeha.sv,1732271527,systemVerilog,,/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/new/K2_Processor.sv,,Dregisterbeha,,,,,,,,
+/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/imports/ROM/ROM.sv,1732363387,systemVerilog,,/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/new/mux.sv,,ROM,,,,,,,,
+/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/new/ALU.sv,1732271527,systemVerilog,,/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/new/Datamemory.sv,,ALU,,,,,,,,
+/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/new/Datamemory.sv,1732362112,systemVerilog,,/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/new/Decoder.sv,,Datamemory,,,,,,,,
+/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/new/Decoder.sv,1732271527,systemVerilog,,/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/imports/K2-main/Register/sources_1/new/Dregisterbeha.sv,,Decoder,,,,,,,,
+/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/new/K2_Processor.sv,1732362863,systemVerilog,,/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/imports/ROM/ROM.sv,,K2_Processor,,,,,,,,
+/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/new/mux.sv,1732271527,systemVerilog,,/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/new/mux2.sv,,mux,,,,,,,,
+/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/new/mux2.sv,1732271527,systemVerilog,,/home/it/Verilog/Nasser/K2_Processor_Verilog-main/K2_processor.srcs/sources_1/imports/K2-main/Counter/sources_1/new/nbitcounter.sv,,mux2,,,,,,,,
+/home/it/Verilog/Nasser/K2_Processor_Verilog-main/project/project.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
